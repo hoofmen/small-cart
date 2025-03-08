@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pcAUL7a+33XOYkcIOxLb3LImG7WvZgFiix/o0IGyOxs=",
+  "Source": "StripeCheckoutApi",
+  "BasePath": "_content/StripeCheckoutApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
